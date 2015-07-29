@@ -2,6 +2,7 @@ from numpy import *
 import numpy.random
 from matplotlib import pyplot as plt
 
+# Set 
 q = 4
 
 def initializeSpin(L):
